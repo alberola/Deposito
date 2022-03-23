@@ -16,6 +16,7 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInterés;
+    private double apellido;
 
     public CCuenta()
     {
